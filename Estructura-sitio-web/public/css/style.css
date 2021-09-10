@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.buscador {
+           border: solid 1px black;
+           width: 250px;
+           height: 15px;
+}
+/* estilo gral*/
+* {
+    font-family: Roboto;
+    margin: 0;
+}
+/* Header*/
+.header {
+    background-color: #EAC926;
+}
+
+ul {
+    list-style: none;
+    
+}
+a {
+    text-decoration: none;  
+}
